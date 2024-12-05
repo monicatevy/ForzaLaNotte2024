@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+canvas {
+    border: 2px solid black;
+    margin: 20px auto;
+    display: block;
+}
+
+#form-container {
+    margin-top: 20px;
+}
