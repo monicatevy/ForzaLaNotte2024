@@ -33,6 +33,7 @@ body {
     color: transparent;
     cursor: default;
     transform: rotateY(180deg);
+    user-select: none;
 }
 
 .card.revealed {
